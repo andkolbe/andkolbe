@@ -9,6 +9,7 @@ I’m currently learning Javascript, React, NodeJS, and MySQL
 You can reach me at kolbe1129@gmail.com
 
 andrewkolbe.com
+
 linkedin.com/in/andrewkolbe/
 
 
