@@ -10,7 +10,7 @@ You can reach me at kolbe1129@gmail.com
 
 andrewkolbe.com
 
-linkedin.com/in/andrewkolbe/
+linkedin.com/in/andrewkolbe
 
 
 <!---
