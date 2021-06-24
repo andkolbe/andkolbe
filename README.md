@@ -8,6 +8,10 @@ I’m currently learning Javascript, React, NodeJS, and MySQL
 
 You can reach me at kolbe1129@gmail.com
 
+andrewkolbe.com
+linkedin.com/in/andrewkolbe/
+
+
 <!---
 andkolbe/andkolbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
