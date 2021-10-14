@@ -4,7 +4,7 @@ I have years of experience working in high stress, team focused, and technically
 
 In my free time, I enjoy cooking and learning about new cuisines and cultures, listening to obscure metal, and spending time with my lazy dog
 
-I’m currently working in Javascript, Go, and Python
+I’m currently working in Ruby, Javascript, and Go
 
 You can reach me at kolbe1129@gmail.com
 
