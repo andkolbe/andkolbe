@@ -8,8 +8,6 @@ I’m currently enrolled in the Georgia Tech OMSCS program
 
 You can reach me at kolbe1129@gmail.com
 
-linkedin.com/in/andrewkolbe
-
 
 <!---
 andkolbe/andkolbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
