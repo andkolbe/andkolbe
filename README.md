@@ -1,10 +1,10 @@
 Hello!, I'm Andrew, a pastry chef turned software engineer from Texas who currently lives in Birmingham.
 
-I have years of experience working in high stress, team focused, and technically challenging environments. I love growing with and learning from a team, and helping other motivated people reach their potential.
+I have a few years of experience as a back end web developer writing apps in Go and Typescript and configuring them with AWS.
 
-In my free time, I enjoy cooking and learning about new cuisines and cultures, listening to obscure metal, and spending time with my lazy dog.
+I’m currently enrolled in the Georgia Tech OMSCS program studying Computing and Database Systems. My goal is to work in database internals.
 
-I’m currently enrolled in the Georgia Tech OMSCS program studying Computing and Database Systems
+In my free time, I enjoy cooking and learning about new cuisines and cultures, listening to obscure metal and 70s prog rock, and spending time watching sports with my lazy dog.
 
 You can reach me at kolbe1129@gmail.com
 
